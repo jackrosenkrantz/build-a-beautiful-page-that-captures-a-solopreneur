@@ -1,0 +1,12 @@
+{
+  "name": "solopreneur-ai-journey",
+  "version": "1.0.0",
+  "description": "Personal journey page showcasing AI workflow augmentation",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
